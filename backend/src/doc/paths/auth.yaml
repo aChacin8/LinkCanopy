@@ -51,8 +51,7 @@ paths:
           description: Bad Syntax, try again
         "409":
           description: This email is already registered
-          description: Username not available
-          description: This phone is already registered
+    
 
   /auth/login:
     post:
@@ -90,5 +89,4 @@ paths:
           description: Bad Syntax, try again
         "401":
           description: User not found
-          description: Incorrect password
         
