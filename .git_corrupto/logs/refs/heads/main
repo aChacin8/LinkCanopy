@@ -1,5 +1,0 @@
-0000000000000000000000000000000000000000 5ed0a33d7aea55e77270ce493ca6fc1113a9fa72 Andres <achacin@a-vmBox.(none)> 1763479414 -0600	clone: from https://github.com/aChacin8/LinkCanopy.git
-5ed0a33d7aea55e77270ce493ca6fc1113a9fa72 60086e123706c0e1371cc3568bb8d9b6d8a90ae2 alechacin08 <alechacin08@gmail.com> 1763526333 -0600	commit: feat: first step in docker
-60086e123706c0e1371cc3568bb8d9b6d8a90ae2 47a3443eb0209d7d2adb49dec2fc18379a3a65f1 alechacin08 <alechacin08@gmail.com> 1763679929 -0600	commit: feat: Removing unnecesary repeated "descriptions"
-47a3443eb0209d7d2adb49dec2fc18379a3a65f1 51257a8770dc12a441b319a5fe6a057eeb959d3d alechacin08 <alechacin08@gmail.com> 1764105168 -0600	commit: feat: Rename DockerFile to Dockerfile (correct form)
-51257a8770dc12a441b319a5fe6a057eeb959d3d 3a9af03bd286c371b1c5c8cf9cb48f1eaac021a7 alechacin08 <alechacin08@gmail.com> 1764105183 -0600	commit: feat: Rename DockerFile to Dockerfile
